@@ -1,1 +1,0 @@
-const hello = "<h1>Hi</h1>"
